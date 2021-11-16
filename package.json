@@ -1,0 +1,20 @@
+{
+  "name": "race-car",
+  "version": "1.0.0",
+  "description": "racing car animation",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "keywords": [
+    "car",
+    "moving",
+    "animation"
+  ],
+  "author": "Aryan Tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.0.1"
+  }
+}
